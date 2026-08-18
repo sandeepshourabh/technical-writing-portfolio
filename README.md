@@ -34,13 +34,14 @@ Documentation I've authored that's publicly accessible today:
 
 ## Core Skills
 
-**Documentation:** API & SDK Documentation (iOS, Android, Web, React Native, Flutter) · User Guides & Knowledge Base Articles · Developer Documentation & Code Samples · Release Notes · Process Documentation & SOPs
+**Documentation:** API & SDK Documentation (iOS, Android, Web, React Native, Flutter) · User Guides & Knowledge Base Articles · DITA-XML · Release Notes · Process Documentation & SOP · Video Scripts & Tutorials · UI Copy · Training & Certification Content · KCS-aligned Documentation Management
 
-**Tools & Platforms:** Sanity CMS, Mintlify, Confluence, GitHub, Jira, Figma, Notion
+**Tools & Platforms:** Sanity CMS, Mintlify, Confluence, GitHub, Jira, Figma, HubSpot, Trainn, Canva, Vimeo, Google Workspace, Microsoft 365, Zoho Suite, TrainerCentral, Slack, Snipping, AI (Claude, ChatGPT, Gemini, Grammarly)
 
 **Technical Familiarity:** Markdown, JavaScript, Python, Java, Go, Swift, Kotlin, HTML/CSS, JSON *(documentation & code-sample level)*
 
-**Methods:** Agile / Docs-as-Code, Information Architecture, AI-Assisted Documentation, SEO for Knowledge Bases
+**Methods:** Agile / Docs-as-Code, Information Architecture, AI-Assisted Documentation, SEO for Knowledge Bases, AI Assisted Documentation, Instructional Design & Learning Analytics, Cross-Functional Collaboration
+
 
 ---
 
