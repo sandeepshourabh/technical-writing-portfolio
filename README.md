@@ -21,7 +21,7 @@ Documentation I've authored that's publicly accessible today:
 - **[iOS SDK Integration Guide](https://begenuin.com/developers/developer-resources/sdk/integrate-the-genuin-ad-sdk-for-ios)** — Genuin
 - **[Mixpanel API Integration Guide](https://begenuin.com/developers/developer-resources/api/integrate-mixpanel-with-brand-control-center)** — Genuin
 - **[Product Walkthrough: Placements Setup](https://begenuin.com/developers/browse-by-products/onsite/how-a-brand-can-get-started-with-placements-in-brand-control-center)** — Genuin
-- **[Managing Team Timesheets](https://help.keka.com/hc/en-us/articles/39946833972753-Managing-your-team-s-timesheets)** — Keka HR
+- **[Managing Team Timesheets](https://help.keka.com/hc/en-us/articles/39946833972753-Managing-your-team-s-timesheets)** — Keka
 - **[Managing Profile Permissions](https://help.zoho.com/portal/en/kb/crm/security-control/profile-management/articles/manage-profile-permissions)** — Zoho
 - **[Cash Withdrawal in Cashier Management](https://community.gofrugal.com/portal/en/kb/gofrugalretaileasy/sales/cash-and-shift-management/articles/cash-withdrawal-in-cashier-management)** — GOFRUGAL
 
