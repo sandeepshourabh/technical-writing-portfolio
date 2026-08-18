@@ -2,7 +2,7 @@
 
 Technical Writer with 7+ years of experience across SaaS, HRMS, ERP, and AI-powered platforms. This repo is a curated set of case studies showing not just *what* I wrote, but *how* I approached each problem — the constraints, the decisions, and the outcome.
 
-📄 [Resume (PDF)](file:///C:/Users/sshou/Downloads/Sandeep_Shourabh_Resume.pdf) · 💼 [LinkedIn](https://www.linkedin.com/in/sandeep-shourabh-78921549/) · ✉️ s.shourabh@gmail.com
+· 💼 [LinkedIn](https://www.linkedin.com/in/sandeep-shourabh-78921549/) · ✉️ s.shourabh@gmail.com
 
 ---
 
