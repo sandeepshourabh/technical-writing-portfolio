@@ -12,7 +12,6 @@ Technical Writer with 7+ years of experience across SaaS, HRMS, ERP, and AI-powe
 |---|---|---|
 | 01 | [Documenting a Multi-Path OAuth/SSO Integration](./case-studies/01-sso-oauth-documentation.md) | Simplifying genuine technical complexity for a semi-technical audience |
 | 02 | [Rebuilding Information Architecture: A CMS Migration](./case-studies/02-cms-migration-information-architecture.md) | Documentation systems thinking at scale |
-| 03 | [Designing and Validating an AI Documentation Assistant](./case-studies/03-ai-assisted-documentation-octogpt.md) | AI-assisted documentation workflows |
 
 ## Live, Public Writing Samples
 
